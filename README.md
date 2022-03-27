@@ -1,8 +1,8 @@
-# My name is Thibeau, nice to meet you!
+# Hello there, nice to meet you!
 
-I'm currently working as a junior software developer at sr solutions ag, where I develop all sorts of things around [ILIAS](https://github.com/ILIAS-eLearning/ILIAS).
+I'm currently working as a junior software developer at [sr solutions ag](https://github.com/srsolutionsag), where I develop all sorts of things around [ILIAS](https://github.com/ILIAS-eLearning/ILIAS).
 
-## And of my interests are ...
+## Some of my interests are ...
 
 - 💻 Programming (obviously)
 - 🍜 Cooking (and eating it too)

@@ -1,6 +1,6 @@
 # Hello there, nice to meet you!
 
-I'm currently working as a junior software developer at [sr solutions ag](https://github.com/srsolutionsag), where I develop all sorts of things around [ILIAS](https://github.com/ILIAS-eLearning/ILIAS).
+I'm currently working as a professional software developer at [sr solutions ag](https://github.com/srsolutionsag), where I develop all sorts of things around [ILIAS](https://github.com/ILIAS-eLearning/ILIAS).
 
 ## Some of my interests are ...
 

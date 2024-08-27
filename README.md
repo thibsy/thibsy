@@ -7,6 +7,7 @@ I'm currently working as a professional software developer at [sr solutions ag](
 - 💻 Programming (obviously)
 - 🍜 Cooking (and eating it too)
 - 🎮 Board- & strategy games
+- 🧗 Bouldering
 
 ## GitHub stats:
 

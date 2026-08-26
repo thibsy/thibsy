@@ -6,6 +6,7 @@ I'm currently working as a professional software developer at [sr solutions ag](
 
 - 💻 Programming (obviously)
 - 🍜 Cooking (and eating it too)
+- ☕ Homebrew coffee (pun intended)
 - 🎮 Board- & strategy games
 - 🧗 Bouldering
 
